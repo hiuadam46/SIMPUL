@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  key_room: 1
+  key_user: 1
+  message: MyString
+
+two:
+  key_room: 1
+  key_user: 1
+  message: MyString
